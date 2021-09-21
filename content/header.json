@@ -1,0 +1,22 @@
+{
+    "header": {
+            "opencartlogotitle": "OpenCart - Open Source Shopping Cart Solution",
+            "Features": "Features",
+            "Demo": "Demo",
+            "Marketplace": "Marketplace",
+            "Download": "Download",
+            "Resources": "Resources",
+            "Showcase": "Showcase",
+            "ContactUs": "Contact Us",
+            "OpenCartCloud": "OpenCart Cloud",
+            "OpenCartPartners": "OpenCart Partners",
+            "CommunityForums": "Community Forums",
+            "OpenCartDocumentation": "OpenCart Documentation",
+            "OpenCartBooks": "OpenCart Books",
+            "GithubBugTracker": "Github Bug Tracker",
+            "Developer": "Developer",
+            "Login": "Login",
+            "Register": "Register"
+    }
+}
+

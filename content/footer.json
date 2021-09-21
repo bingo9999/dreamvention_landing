@@ -1,0 +1,42 @@
+{
+    "footer": {
+        "Op": "OpenCart",
+        "Features": "Features",
+        "Showcase": "Showcase",
+        "Demo": "Demo",
+        "Dwnld": "Download",
+        "MarkPlace": "Marketplace",
+        "Login": "Login",
+
+        "Company": "Company",
+        "ConUs": "Contact Us",
+        "AbUs": "About Us",
+        "ExtDev": "Extension Developer",
+
+        "Support": "Support",
+        "CForum": "Community Forum",
+        "DSupport": "Dedicated Support",
+        "OCPartners": "OpenCart Partners",
+        "MPlaceSupport": "Marketplace Support",
+        "MTOCart": "Migrate to OpenCart",
+
+        "Resources": "Resources",
+        "OpenCartBlog": "OpenCart Blog",
+        "OCDoc": "OpenCart Documentation",
+        "OCBooks": "OpenCart Books",
+        "GBTracker": "Github Bug Tracker",
+        "Dev": "Developer",
+
+        "Newlet": "Newsletter",
+        "Subscribe": "Subscribe to our newsletters and stay informed of new releases and other OpenCart events.",
+
+        "Cr": "Copyright 2021 OpenCart",
+        "Li": "Linkedin",
+        "Fb": "Facebook",
+        "Tw": "Twitter",
+
+        "FaMaPart": "Facebook Marketing Partner",
+        "PlachdEnterY": "Enter your email address"
+    }
+}
+

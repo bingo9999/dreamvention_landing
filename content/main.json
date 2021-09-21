@@ -1,0 +1,65 @@
+{
+    "hero": {
+                "Decided": "Dedicated technical",
+                "Support": "support for your project",
+                "Gethelp": "Get the help you need with OpenCart",
+                "Commercial": "Commercial Support"
+    },
+    "support": {
+        "features": "Dedicated Support Features",
+        "DebuggingFixing": "Debugging and Fixing Bugs",
+        "ThorougVerification": "Thorough verification and elimination of problems arising from the installation of third-party modules, custom modifications or tampering with the code.",
+    
+        "WebDev": "Website Development",
+        "WeAreReady": "We are ready to develop fabulous website based on Opencart platform for you from scratch",
+    
+        "ConsulAssist": "Consultation and Assistance",
+        "WeHappy": "We happy to help you with any questions you have! Opencart functionality, selection of modules, hosting, etc. We are able to help with anything related to Opencart platform.",
+
+        "ModDesDev": "Module and Design Development",
+        "ModAreEss": "Modules are essential part of every Opencart store and we will be pleased to develop custom extension for your store to cover your needs. Also, we provide with design and theme development service to make your website look individual and authentic.",
+
+        "OpenUpgrad": "Opencart Upgrading",
+        "WeProvideUp": "We provide with upgrading service. In case you have outdated opencart - we are ready to help and build modern website based on the latest Opencart version with the preservation of all your data like orders, customers, products etc.",
+
+        "WeAreAlways": "We are always by your side",
+        "AnythingCanHap": "Anything can happen at the most unexpected moment. In case of any issues, we guarantee to give an answer within 24 hours."
+    },
+    "dreamvention": {
+        "centertext": "About Dreamvention",
+        "text": "Any online business starts with a website or an app. We have been developing e-commerce solutions since 2010 from common webshops on OpenCart and Shopify to complex Web Apps on Nodejs+reactJs and Mobile Apps for iOS and Android. We know it all and we can help you get it right from the beginning."
+    },
+    "reviews": {
+        "centertext": "What Clients Think of the ",
+        "centertext2": "Dedicated Support",
+        "reviewtextlong": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sed do sed.",
+        "reviewtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+        "coowner": "co-owner Lorem Ipsum",
+        "nameMorris": "Morris Chambers",
+        "nameMichael": "Michael Golden",
+        "nameKaren": "Karen Robbins"
+    },
+    "pricing": {
+        "Pricing": "Pricing",
+        "Starter": "Starter",
+        "Startlorem": "Start lorem",
+        "Advance": "Advance",
+        "Cost29": "29",
+        "Cost49": "49",
+        "Cost288": "288",
+        "Mo": "/Mo",
+        "Good": "Good for entrepreneurs",
+        "Design": "Design for every growing online businesses",
+        "Great": "Great for large and professional businesses"
+    },
+    "frequently": {
+        "Frequently": "Frequently Asked Questions",
+        "QuestWhy": "Why should I use the Premium Support?",
+        "QuestHowBugs": "How are bugs fixed?",
+        "QuestHowaProvide": "How do I provide access to my site?",
+        "QuestLorem": "Lorem ipsum dolor sit amet?",
+        "Answerbig": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Answerlittle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    }
+}
+
