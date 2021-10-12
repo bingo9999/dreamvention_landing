@@ -1,7 +1,6 @@
 <template>
     <div v-if="dreamvention" id="dreamvention">
     <h1 class="text-center">{{dreamvention.centertext}}</h1>
-    <p class="text-center">{{dreamvention.partners}}</p>
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-xs-12">
